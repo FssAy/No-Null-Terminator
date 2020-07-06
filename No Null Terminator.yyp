@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "3ea082e5-edc7-476c-8a32-a765c284f8d6",
-            "Value": {
-                "id": "9c9c4fdf-6c13-4232-970e-8c3d86f0b840",
-                "resourcePath": "datafiles_yy\\NoNullTerminator.dll.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "48494057-e932-4385-801d-352530acb474",
             "Value": {
                 "id": "48be4af3-2c25-4851-86e0-9502df1905f9",
@@ -148,6 +140,14 @@
                 "id": "004eacce-27e9-46ed-a855-a34a5f3f3806",
                 "resourcePath": "views\\6bc2aaff-f754-4133-8e20-27bcf1484f6e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "744af1c9-2943-40cf-b6ba-398910b72363",
+            "Value": {
+                "id": "4bd2da8c-9579-488d-bdba-c5000b50e686",
+                "resourcePath": "datafiles_yy\\NoNullTerminator.dll.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
